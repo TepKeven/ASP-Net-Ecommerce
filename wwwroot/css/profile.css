@@ -1,0 +1,57 @@
+@keyframes profile-in {
+    from {
+        font-size: 0;
+        height: 0px;
+    }
+
+    to {
+        font-size: 17px;
+        height: 80px;
+    }
+
+}
+
+@keyframes profile-out {
+    from {
+        font-size: 17px;
+        height: 80px;
+    }
+
+    to {
+        font-size: 0;
+        height: 0px;
+    }
+
+}
+
+.profile-overlay {
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    left: 0;
+    height: 0px;
+    width: 100%;
+    bottom: 0;
+    animation-duration: 0.4s;
+    animation-name: profile-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0;
+}
+
+.profile-box {
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+}
+
+.profile-box:hover {
+    cursor: pointer;
+    filter: brightness(0.9);
+}
+
+.profile-box:hover .profile-overlay {
+    animation-name: profile-in;
+    animation-fill-mode: forwards;
+}

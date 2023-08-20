@@ -1,0 +1,10 @@
+.category-list li {
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 10px;
+    color: black;
+}
+
+.shopping-page {
+    padding: 20px 50px;
+}

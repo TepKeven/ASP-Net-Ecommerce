@@ -1,0 +1,15 @@
+.content {
+    width: 40%;
+    margin-left: 30px;
+}
+
+.all-price-box h5{
+    margin-top: 5px;
+}
+
+.product-img-box{
+    width:15%;
+    display: flex;
+    justify-content: center;
+}
+

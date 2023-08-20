@@ -1,0 +1,16 @@
+.aboutus-section {
+    padding: 1em 4em 0em 4em;
+}
+
+.aboutus-section p {
+    text-align: justify;
+}
+
+.about-box img{
+    border-radius: 50%;
+}
+
+.product-box h4, .product-box p{
+    text-align: center;
+    margin-bottom: 0px;
+}

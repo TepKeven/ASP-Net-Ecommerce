@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\asp_net.bundle.scp.css",
+      "PackagePath": "staticwebassets\\asp_net.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\base.css",
+      "PackagePath": "staticwebassets\\css\\base.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\bestseller.css",
+      "PackagePath": "staticwebassets\\css\\bestseller.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\category.css",
+      "PackagePath": "staticwebassets\\css\\category.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\checkout.css",
+      "PackagePath": "staticwebassets\\css\\checkout.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\editprofile.css",
+      "PackagePath": "staticwebassets\\css\\editprofile.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\featured.css",
+      "PackagePath": "staticwebassets\\css\\featured.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\forgetpw.css",
+      "PackagePath": "staticwebassets\\css\\forgetpw.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\graph.css",
+      "PackagePath": "staticwebassets\\css\\graph.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\order.css",
+      "PackagePath": "staticwebassets\\css\\order.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\promotion.css",
+      "PackagePath": "staticwebassets\\css\\promotion.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\recent.css",
+      "PackagePath": "staticwebassets\\css\\recent.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\shopping.css",
+      "PackagePath": "staticwebassets\\css\\shopping.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\signup.css",
+      "PackagePath": "staticwebassets\\css\\signup.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\sitemap.css",
+      "PackagePath": "staticwebassets\\css\\sitemap.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\css\\slideshow.css",
+      "PackagePath": "staticwebassets\\css\\slideshow.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\banners\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banners\\banner.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\banners\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\banners\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\blog\\360_camera.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\360_camera.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\blog\\iphone.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\iphone.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\blog\\ipod.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\ipod.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\blog\\macbook.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\macbook.webp"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\coupon\\50%_voucher.webp",
+      "PackagePath": "staticwebassets\\img\\coupon\\50%_voucher.webp"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\keven.jpg",
+      "PackagePath": "staticwebassets\\img\\keven.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\placeholder.png",
+      "PackagePath": "staticwebassets\\img\\placeholder.png"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\apple_cinema.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\apple_cinema.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\canon_eos_5d.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\canon_eos_5d.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\hp.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\hp.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\htc_touch_hd.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\htc_touch_hd.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\imac.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\imac.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\iphone.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\iphone.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\ipod_classic.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\ipod_classic.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\ipod_nano.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\ipod_nano.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\ipod_shuffle.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\ipod_shuffle.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\macbook_air.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\macbook_air.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\macbook_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\macbook_pro.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\nikon_d300.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\nikon_d300.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\palm_treo_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\palm_treo_pro.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\samsung_tab.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\samsung_tab.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\products\\sony_vaio.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\sony_vaio.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\promotion\\30_discount.jpg",
+      "PackagePath": "staticwebassets\\img\\promotion\\30_discount.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\promotion\\50_discount.jpg",
+      "PackagePath": "staticwebassets\\img\\promotion\\50_discount.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\promotion\\buy_one_get_one.webp",
+      "PackagePath": "staticwebassets\\img\\promotion\\buy_one_get_one.webp"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\promotion\\coupon.jpg",
+      "PackagePath": "staticwebassets\\img\\promotion\\coupon.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\team\\user1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\user1.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\team\\user2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\user2.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\img\\team\\user3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\user3.jpg"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\base.js",
+      "PackagePath": "staticwebassets\\js\\base.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\checkout.js",
+      "PackagePath": "staticwebassets\\js\\checkout.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\editprofile.js",
+      "PackagePath": "staticwebassets\\js\\editprofile.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\global.js",
+      "PackagePath": "staticwebassets\\js\\global.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\signup.js",
+      "PackagePath": "staticwebassets\\js\\signup.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\js\\slideshow.js",
+      "PackagePath": "staticwebassets\\js\\slideshow.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\coding_languages\\C#\\asp_net\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.asp_net.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.asp_net.props",
+      "PackagePath": "build\\asp_net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.asp_net.props",
+      "PackagePath": "buildMultiTargeting\\asp_net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.asp_net.props",
+      "PackagePath": "buildTransitive\\asp_net.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

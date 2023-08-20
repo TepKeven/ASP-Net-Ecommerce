@@ -1,0 +1,40 @@
+.form-container {
+    width: 33%;
+    border: solid 1px gray;
+    padding: 30px 50px;
+}
+
+.form-container-checkout {
+    width: 60%;
+    border: solid 1px gray;
+    padding: 30px 50px;
+}
+
+#table-checkout {
+    border-collapse: collapse;
+}
+
+#table-checkout tr{
+    height:45px;
+}
+
+#table-checkout td{
+    text-align: center;
+}
+
+.form-control-checkout input:not([type="checkbox"]):not([type="radio"]) {
+    font-size: 18px;
+    height: 40px;
+    border-radius: 5px;
+    width: 100%;
+    border: solid 1px rgb(181, 178, 178);
+    margin-top: 10px;
+}
+
+.form-control-checkout textarea {
+    height: 150px;
+    border-radius: 5px;
+    width: 100%;
+    border: solid 1px rgb(181, 178, 178);
+    margin-top: 10px;
+}

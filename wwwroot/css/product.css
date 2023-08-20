@@ -1,0 +1,7 @@
+.btn-disabled {
+    pointer-events: none;
+}
+
+.related-product-section{
+    margin-top: 5em;
+}

@@ -1,0 +1,141 @@
+@{
+    var product_id = ViewData["product_id"];
+}
+
+<!--BreadCrumb-->
+<div class="title-box d-flex flex-column align-items-center justify-content-center">
+    <h2 id="title">Product</h2>
+    <div class="breadcrumb d-flex justify-content-center">
+        <a href="./home.html">Home</a>
+        &nbsp;>&nbsp;
+        <a href="./product.html" id="current-breadcrumb">Product</a>
+    </div>
+</div>
+
+<div class="product-section d-flex mt-5" id="product-page">
+    <div class="w-50 d-flex justify-content-center">
+        <img src="../img/placeholder.png" width="450" id="product-image"/>
+    </div>
+    <div class="product-content w-50" id="product-content">
+        <h2>Placeholder</h2>
+        <h3>Category</h3>
+        <p>
+            Lorem ipsum dolor sit amet, sit ex solet euismod apeirian, <br/> id per wisi antiopam definitiones. Quo ei timeam quaerendum..
+        </p>
+        <h4>Price: $0</h4>
+        <button class="btn-cart btn btn-primary btn-disabled w-50" data-id="12" id="btn-cart">Add to Cart</button>
+    </div>
+</div>
+<div class="related-product-section" id="related-section">
+    <h2 align="center">Related Products</h2>
+</div>
+
+<script>
+    window.addEventListener("load", function () {
+
+        var product_id = @product_id;
+        var product_page = document.getElementById("product-page");
+        var title = document.getElementById("title");
+        var current_breadcrumb = document.getElementById("current-breadcrumb");
+        var product_content = document.getElementById("product-content");
+        var product_img = document.getElementById("product-image")
+        var btn_cart = document.getElementById("btn-cart");
+
+        // Product Information
+
+        var product = products.find(product => product.id === parseInt(product_id));
+
+        if (product != undefined) {
+
+            var category = categories.find(category => category.id === parseInt(product.category_id));
+            var title_text = product.name;
+            var url = "product.html?product_id=" + product_id;
+            title.textContent = title_text;
+            current_breadcrumb.textContent = title_text;
+            current_breadcrumb.href = url;
+            var product_information = { name: product.name, category: "Category: " + category.name, desc: product.desc, price: product.price }
+            var product_info = product_content.children
+
+
+            Object.keys(product_information).forEach((key, index) => {
+                product_info[index].textContent = product_information[key]
+            })
+
+            product_img.src = product.img;
+            product_img.width = product.resolution[0] * 1.5;
+            product_img.height = product.resolution[1] * 1.5;
+
+            if (btn_cart.classList.contains("btn-disabled")) {
+                btn_cart.classList.remove("btn-disabled");
+            }
+
+            btn_cart.setAttribute("data-id", product.id);
+
+            
+            // Related Products
+            var related_products = products.filter(related_product => related_product.category_id === parseInt(category.id) && related_product.id != parseInt(product_id));
+            var related_section  = document.getElementById("related-section");
+
+            for (let [index, related_product] of related_products.entries()) {
+
+                if (index % 4 == 0) {
+
+                    row_container = document.createElement("div");
+                    row_container.classList.add("row-container", "d-flex", "flex-row", "align-items-center");
+                }
+
+                var related_product_box_container = document.createElement("div");
+                related_product_box_container.classList.add("product-box-container", "d-flex", "flex-column", "align-items-center");
+
+                var related_product_box = document.createElement("div");
+                related_product_box.classList.add("product-box", "d-flex", "flex-column", "align-items-center");
+
+                var related_product_img = document.createElement("img");
+                related_product_img.src = related_product.img;
+                related_product_img.width = related_product.resolution[0];
+                related_product_img.height = related_product.resolution[1];
+
+                var related_product_content = document.createElement("div")
+                related_product_content.classList.add("content");
+
+                var related_product_name = document.createElement("h4");
+                related_product_name.textContent = related_product.name;
+
+                var related_product_description = document.createElement("p");
+                related_product_description.textContent = related_product.desc;
+
+                var related_product_price = document.createElement("h5");
+                related_product_price.textContent = related_product.price;
+
+                var related_product_button = document.createElement("button");
+                related_product_button.classList.add("btn-cart", "btn", "btn-primary", "w-100");
+                related_product_button.setAttribute("data-id", related_product.id)
+                related_product_button.textContent = "Add to Cart";
+
+                related_product_content.appendChild(related_product_name);
+                related_product_content.appendChild(related_product_description);
+                related_product_content.appendChild(related_product_price);
+
+                related_product_box.appendChild(related_product_img);
+                related_product_box.appendChild(related_product_content);
+                related_product_box.appendChild(related_product_button);
+
+                related_product_box_container.appendChild(related_product_box)
+
+                row_container.appendChild(related_product_box_container);
+
+                if (index % 4 == 1 || index == related_products.length - 1) {
+                    related_section.appendChild(row_container);
+                }
+
+            }
+
+        
+        }
+
+        var btn_carts = document.getElementsByClassName("btn-cart");
+        for (let btn_cart of btn_carts) {
+            btn_cart.addEventListener("click", addToCart);
+        }
+    })
+</script>

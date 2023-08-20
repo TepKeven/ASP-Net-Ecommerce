@@ -1,0 +1,13 @@
+.blog-box{
+    width: 35%;
+}
+
+.blog-img-cover{
+    height:250px;
+    overflow: hidden;
+}
+
+
+.blog-box p{
+    text-align: justify;
+}

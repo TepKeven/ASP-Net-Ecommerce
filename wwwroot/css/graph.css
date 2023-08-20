@@ -1,0 +1,9 @@
+#graph2 {
+    padding-right: 40px;
+    width: 640px;
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}

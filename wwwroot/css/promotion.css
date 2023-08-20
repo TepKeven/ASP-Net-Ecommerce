@@ -1,0 +1,13 @@
+.promotion-box {
+    width: 35%;
+}
+
+.promotion-img-cover {
+    height: 250px;
+    overflow: hidden;
+}
+
+
+.promotion-box p {
+    text-align: justify;
+}

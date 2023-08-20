@@ -1,0 +1,17 @@
+.sitemap-sections{
+    padding:2em;
+}
+
+.map-sides li{
+    margin-top:15px;
+}
+
+.map-sides li a{
+    color:black;
+    font-size:17px;
+    text-decoration: none;
+}
+
+.map-sides li a:hover{
+    color:dodgerblue;
+}

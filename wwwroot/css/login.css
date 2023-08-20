@@ -1,0 +1,14 @@
+.form-container {
+    width: 30%;
+    border:solid 1px gray;
+    padding:30px 50px;
+}
+
+.form-control-login input {
+    font-size:20px;
+    height: 40px;
+    border-radius: 5px;
+    width: 100%;
+    border: solid 1px rgb(181, 178, 178);
+    margin-top: 10px;
+}

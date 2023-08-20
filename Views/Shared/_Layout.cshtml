@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ASP Net MVC Core</title>
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+    @* <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/asp_net.styles.css" asp-append-version="true" /> *@
+    <link rel="stylesheet" href="~/css/home.css" />
+    <link rel="stylesheet" href="~/css/about.css"/>
+    <link rel="stylesheet" href="~/css/base.css" />
+    <link rel="stylesheet" href="~/css/product.css" />
+    <link rel="stylesheet" href="~/css/slideshow.css" />
+</head>
+<body>
+    <!--Navbar-->
+    <div class="w-100">
+        <ul class="menu-height d-flex flex-row align-items-center justify-content-evenly">
+            <li>
+                <a class="text-white underline-none" href="/">Home</a>
+            </li>
+            <li>
+                <a class="text-white underline-none" href="#">
+                    Information
+                    <ul class="sub-menu d-none">
+                        <li><a href="home/about">About Us</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Site Map</a></li>
+                        <li><a href="#">Promotion</a></li>
+                        <li><a href="#">Our Growth</a></li>
+                    </ul>
+                </a>
+            </li>
+            <li>
+                <a class="text-white underline-none" href="./blog.html">Blogs</a>
+            </li>
+            <li>
+                <a class="text-white underline-none" href="#">
+                    Shopping
+                    <ul class="sub-menu d-none">
+                        <li><a href="#">All in One</a></li>
+                        <li><a href="#">Bestseller Products</a></li>
+                        <li><a href="#">Featured Products</a></li>
+                        <li><a href="#">Recent Products</a></li>
+                    </ul>
+                </a>
+            </li>
+            <li>
+                <a class="text-white underline-none" href="#">
+                    Category
+                    <ul class="sub-menu d-none">
+                        <li><a href="#">Computers & Laptops</a></li>
+                        <li><a href="#">Phones</a></li>
+                        <li><a href="#">Ipods</a></li>
+                        <li><a href="#">Cameras</a></li>
+                    </ul>
+                </a>
+            </li>
+            <li>
+                <a class="text-white underline-none" href="#">
+                    Order
+                    <ul class="sub-menu d-none">
+                        <li><a href="#">Checkout</a></li>
+                        <li><a href="#">Cart Order</a></li>
+                    </ul>
+                </a>
+            </li>
+            <li>
+                <a class="text-white underline-none" href="#">
+                    Account
+                    <ul class="sub-menu d-none">
+                        <li><a href="#">Profile</a></li>
+                        <li><a href="#">Forget Password</a></li>
+                        <li><a href="#">Sign Up</a></li>
+                        <li><a href="#">Login</a></li>
+                    </ul>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!--Footer-->
+    <div class="footer d-flex justify-content-between">
+        <div class="col-3">
+            <h3>Information</h3>
+            <a href="#">About Us</a>
+            <a href="#">Contact Us</a>
+        </div>
+        <div class="col-3">
+            <h3>Customer Service</h3>
+            <a href="#">Site Map</a>
+        </div>
+        <div class="col-3">
+            <h3>Extras</h3>
+            <a href="#">Featured Products</a>
+            <a href="#">Bestseller Products</a>
+            <a href="#">Recent Products</a>
+        </div>
+        <div class="col-3">
+            <h3>My Account</h3>
+            <a href="#">My Account</a>
+            <a href="#">Order</a>
+        </div>
+    </div>
+    <script src="~/js/index.js"></script>
+    <script src="~/js/global.js"></script>
+    <script src="~/js/base.js"></script>
+    <script src="~/js/slideshow.js"></script>
+    @* <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> *@
+    @* <script src="~/js/site.js" asp-append-version="true"></script> *@
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
